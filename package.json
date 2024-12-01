@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of code exercises",
+  "author": "Janic Beauchemin",
+  "type": "module",
+  "engines": {
+    "node": ">= 20.9 < 21"
+  },
+  "devDependencies": {
+    "@types/node": "~20",
+    "prettier": "~3.3",
+    "typescript": "~5.5"
+  },
+  "scripts": {}
+}
