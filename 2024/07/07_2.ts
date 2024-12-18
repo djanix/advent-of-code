@@ -32,4 +32,4 @@ function calculate(total: number, index: number, numberList: string[], result: n
   );
 }
 
-console.log(answer); // 975671981569
+console.log(answer); // 223472064194845
