@@ -5,7 +5,7 @@
   "author": "Janic Beauchemin",
   "type": "module",
   "engines": {
-    "node": ">= 20.9 < 21"
+    "node": ">= 20.9"
   },
   "devDependencies": {
     "@types/node": "~20",
